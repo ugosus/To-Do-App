@@ -2,35 +2,31 @@
 
 A simple and interactive To-Do List App that helps users manage daily tasks efficiently. Built using HTML, CSS, Bootstrap, and JavaScript, this app allows users to add, mark as complete, and delete tasks seamlessly — all in a clean, responsive interface.
 
-#🚀 Features
+# 🚀 Features
 
-✅ Add new tasks easily
+- ✅ Add new tasks easily
+- 🗑️ Delete tasks once completed
+- -- Edit task
+- 💾 Persistent storage using localStorage (optional, if implemented)
+- 📱 Responsive design using Bootstrap for mobile and desktop
+- 🎨 Clean and modern UI
 
-🗑️ Delete tasks once completed
-
--- Edit task
-
-💾 Persistent storage using localStorage (optional, if implemented)
-
-📱 Responsive design using Bootstrap for mobile and desktop
-
-🎨 Clean and modern UI
-
-🛠️ Technologies Used
-Language / Framework	Purpose
-HTML5	Structure of the app
-CSS3	Custom styling
-Bootstrap 5	Responsive layout and styling components
-JavaScript (ES6)	App logic and interactivity
-📂 Project Structure
-todo-app/
+## 🛠️ Technologies Used
+#### Language / Framework	Purpose
+- HTML5	Structure of the app
+- CSS3	Custom styling
+- Bootstrap 5	Responsive layout and styling components
+- JavaScript (ES6)	App logic and interactivity
+  
+# 📂 Project Structure
+-todo-app/
 │
-├── index.html         # Main HTML file
-├── style.css          # Custom styles
-├── script.js          # Main JavaScript logic
-└── README.md          # Project documentation
+- ├── index.html         # Main HTML file
+-├── style.css          # Custom styles
+- ├── script.js          # Main JavaScript logic
+- └── README.md          # Project documentation
 
-⚙️ Installation and Usage
+## ⚙️ Installation and Usage
 
 Clone or download the repository:
 
