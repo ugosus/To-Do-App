@@ -1,0 +1,37 @@
+
+body {
+  background-image: url('/ToDo/sunrise.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-overlay {
+  background: rgba(0, 0, 0, 0.4);
+  height: 100%;
+  width: 100%;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 15px;
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+.list-group-item {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: none;
+  margin-bottom: 8px;
+}
+
+.list-group-item i {
+  cursor: pointer;
+}
+.input-area {
+  resize: none;
+}
+
